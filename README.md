@@ -1,6 +1,4 @@
 # Cybersecurity-Tool-Development
-Cracking and Brute-force attack tool. 
-# Cybersecurity-Tool-Development
 ## Cracking and Brute-force attcak tool 
 
 ![N|Solid](https://img.icons8.com/doodle/2x/bash.png) ![N|Solid](https://img.icons8.com/color/2x/python--v2.png)
